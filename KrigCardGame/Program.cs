@@ -6,7 +6,7 @@ namespace KrigCardGame
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DeckCreator.CreateCards();
         }
     }
 }
