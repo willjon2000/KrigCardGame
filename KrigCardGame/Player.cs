@@ -4,7 +4,7 @@ using System.Text;
 
 namespace KrigCardGame
 {
-    public class Players
+    public class Player
     {
         public string PlayerName { get; set; }
         public Queue<Card> Deck { get; set; }
